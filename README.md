@@ -27,5 +27,5 @@ To run the code use the following commands:
 
 
 ### Image Segmentation in 2D in the improved model
-<img src="GAN_ex.png" alt="hi" class="inline"/>
+<img src="example.png" alt="hi" class="inline"/>
 
